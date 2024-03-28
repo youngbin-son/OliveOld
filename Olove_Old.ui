@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>641</width>
+    <height>716</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:rgb(255, 255, 255);</string>
+  </property>
+  <widget class="QLabel" name="Olove_Old">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>411</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OLIVE_OLD</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="make_up_1">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>170</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>make_up_1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="make_up_2">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>170</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>make_up_2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="make_up_3">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>170</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>make_up_3</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="make_up_4">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>170</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>make_up_4</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Check">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>130</y>
+     <width>181</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>메이크업 스타일을 선택하세요!</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Check_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>370</y>
+     <width>151</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>장소를 선택해 보세요!</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="background_1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>440</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>background_1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="background_2">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>440</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>background_2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="background_3">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>440</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>background_3</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="background_4">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>440</y>
+     <width>141</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>background_4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ok_button">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>630</y>
+     <width>241</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgb(160, 205, 70);</string>
+   </property>
+   <property name="text">
+    <string>당신에 스타일을 확인해 보세요!</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Olove_Old_background">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>570</y>
+     <width>351</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OLIVE_OLD_background</string>
+   </property>
+  </widget>
+  <zorder>Olove_Old_background</zorder>
+  <zorder>Olove_Old</zorder>
+  <zorder>make_up_1</zorder>
+  <zorder>make_up_2</zorder>
+  <zorder>make_up_3</zorder>
+  <zorder>make_up_4</zorder>
+  <zorder>Check</zorder>
+  <zorder>Check_2</zorder>
+  <zorder>background_1</zorder>
+  <zorder>background_2</zorder>
+  <zorder>background_3</zorder>
+  <zorder>background_4</zorder>
+  <zorder>ok_button</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
